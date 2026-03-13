@@ -1,10 +1,9 @@
 # Milica & Anita Sweet Shop App
 
-Flutter mobile app UI projekat prilagodjen za Milica Kostic i Anita Mijatovic.
+Flutter mobile app UI projekat,radile: Milica Kostic i Anita Mijatovic.
 
-## Sta je izmenjeno
-- Rebrandovan profil u aplikaciji sa vasim imenima.
-- Uredjeni nazivi prodavnica/map sekcije da izgleda kao vas projekat.
+## Izmene
+- Uredjeni nazivi prodavnica/map sekcije
 - Dodato web ucitavanje podataka kroz repository sloj (`http`), uz fallback na lokalne podatke.
 - Osvezeni nazivi sekcija i proizvoda.
 
